@@ -1,0 +1,65 @@
+{
+    "employees" : [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "salary": 75000,
+      "role": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "salary": 82000,
+      "role": "Data Scientist"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Davis",
+      "salary": 60000,
+      "role": "UI/UX Designer"
+    },
+    {
+      "id": 4,
+      "name": "Diana Roberts",
+      "salary": 95000,
+      "role": "DevOps Engineer"
+    },
+    {
+      "id": 5,
+      "name": "Ethan Brown",
+      "salary": 72000,
+      "role": "Backend Developer"
+    },
+    {
+      "id": 6,
+      "name": "Fiona Wilson",
+      "salary": 68000,
+      "role": "Frontend Developer"
+    },
+    {
+      "id": 7,
+      "name": "George White",
+      "salary": 88000,
+      "role": "Product Manager"
+    },
+    {
+      "id": 8,
+      "name": "Hannah Green",
+      "salary": 55000,
+      "role": "HR Specialist"
+    },
+    {
+      "id": 9,
+      "name": "Ian Black",
+      "salary": 97000,
+      "role": "Cloud Architect"
+    },
+    {
+      "id": 10,
+      "name": "Jackie Adams",
+      "salary": 63000,
+      "role": "Quality Assurance Engineer"
+    }
+  ]
+  
+}

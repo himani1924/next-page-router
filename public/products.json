@@ -1,0 +1,75 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "description": "High-quality Bluetooth wireless headphones with noise cancellation.",
+        "category": "Electronics",
+        "ratings": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Smartwatch",
+        "description": "A sleek smartwatch that tracks fitness and syncs with your smartphone.",
+        "category": "Wearables",
+        "ratings": 4.7
+      },
+      {
+        "id": 3,
+        "name": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with rich sound and long battery life.",
+        "category": "Audio",
+        "ratings": 4.2
+      },
+      {
+        "id": 4,
+        "name": "Smartphone",
+        "description": "A latest-gen smartphone with high resolution camera and fast processor.",
+        "category": "Electronics",
+        "ratings": 4.6
+      },
+      {
+        "id": 5,
+        "name": "Gaming Laptop",
+        "description": "Powerful gaming laptop with high-end graphics card and fast processing.",
+        "category": "Computers",
+        "ratings": 4.8
+      },
+      {
+        "id": 6,
+        "name": "Tablet",
+        "description": "A lightweight tablet with a high-definition display and long battery life.",
+        "category": "Electronics",
+        "ratings": 4.4
+      },
+      {
+        "id": 7,
+        "name": "Digital Camera",
+        "description": "Compact digital camera with 20MP resolution and optical zoom.",
+        "category": "Photography",
+        "ratings": 4.3
+      },
+      {
+        "id": 8,
+        "name": "VR Headset",
+        "description": "Immersive virtual reality headset for gaming and media consumption.",
+        "category": "Wearables",
+        "ratings": 4.6
+      },
+      {
+        "id": 9,
+        "name": "Smart Home Hub",
+        "description": "A central hub to control all your smart home devices.",
+        "category": "Home Automation",
+        "ratings": 4.7
+      },
+      {
+        "id": 10,
+        "name": "Electric Toothbrush",
+        "description": "Rechargeable electric toothbrush with multiple cleaning modes.",
+        "category": "Health & Beauty",
+        "ratings": 4.5
+      }
+    ]
+  }
+  
